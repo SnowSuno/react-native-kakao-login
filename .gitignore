@@ -10,7 +10,7 @@ package-lock.json
 KakaoLoginExample/package-lock.json
 npm-debug.log
 yarn-error.log
-  
+
 # Xcode
 #
 build/
@@ -30,7 +30,7 @@ DerivedData
 *.ipa
 *.xcuserstate
 project.xcworkspace
-      
+
 
 # Android/IntelliJ
 #
@@ -46,11 +46,11 @@ buck-out/
 *.keystore
 
 # Built files
-src/**/*.js
-src/**/*.d.ts
-src/**/*.js.flow
-plugins/**/*.js
-plugins/**/*.d.ts
+#src/**/*.js
+#src/**/*.d.ts
+#src/**/*.js.flow
+#plugins/**/*.js
+#plugins/**/*.d.ts
 
 # iOS
 ios/Pods
